@@ -32,3 +32,14 @@ Ser sostenibles es aprender a vivir con la naturaleza sin sacrificar el progreso
 Si queremos que nuestra civilización sea estable y justa, debemos asumir que cuidar del planeta va de la mano de cuidar de nosotros mismos.
 
 Y yo me pregunto: ¿Crees que como individuos tenemos más poder del que imaginamos para influir en ese equilibrio.?
+
+
+03/10/2025
+DIA3
+
+Empezamos tratanto el tema de si somos animales o no. Nuestra base biologica, "Estamos formados por las mismas piezas".
+Nos diferenciamos en nuestro lenguaje complejo/tecnologia/cultura transmisible.
+¿Acabaremos con la vida en nuestro planeta?
+
+Pequeña Reflexion: Aunque a menudo pensamos que estamos separados de la naturaleza, en realidad somos animales con la misma base biológica que el resto de los seres vivos. Lo que nos distingue lenguaje, tecnología y cultura,esto nos da un gran poder para transformar el planeta, pero también una gran responsabilidad.
+La pregunta sobre si acabaremos con la vida en la Tierra nos recuerda que nuestro futuro depende de usar ese poder con equilibrio y sostenibilidad.
