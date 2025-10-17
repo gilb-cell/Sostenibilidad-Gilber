@@ -7,6 +7,18 @@ Alumno: Gilberto Gil Gandia. :)
 
 ##OCTUBRE
 
+
+### 17/10/2025 DIA(5)
+
+Comenzamos la clase de hoy con la pregunta ¿Vivimos solos?. Las relaciones entre especies, ninguna vive aislada, todas interactuan con alguna otra. Relaciones intraespecificas e interespecificas (mutualismo, parasitismo....)
+La denominacion de origen de la trufa negra en Sarrion. ¿Que hacemos nosotros: cooperamos o competimos?.
+
+La clase de hoy nos hizo pensar en cómo, al igual que en la naturaleza, ningún ser vivo existe de manera aislada. 
+Todas las especies dependen unas de otras, ya sea cooperando o compitiendo. 
+Las relaciones intraespecíficas e interespecíficas muestran que la interacción es esencial para el equilibrio del ecosistema. 
+El ejemplo de la trufa negra en Sarrión refleja cómo la cooperación humana con el entorno y entre personas puede generar desarrollo y sostenibilidad significativo. 
+En mi opinión, vivir no es hacerlo solo, sino aprender a convivir y colaborar para prosperar juntos. 
+
 ### 10/10/2025 DIA(4)
 
 Concepto de hoy "capacidad de carga de un ecosistema", "importancia ecológica", si mantenemos la capacidad de carga podremos asegurar la salud ,la funcionalidad y la viabilidad del ecosistema a lo largo del tiempo 
