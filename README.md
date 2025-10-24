@@ -5,7 +5,16 @@ Esto es un repositorio para la asignatura de Sostenibilidad aplicada al sector p
 Alumno: Gilberto Gil Gandia. :)
 
 
-##OCTUBRE
+## OCTUBRE
+
+### 24/10/2025 DIA(6)
+
+Comenzamos la clase tratando las estrategias de crecimiento de la R y la K: Somos todos lo seres vivos iguales? No, en el planeta hay mucha diversidad. Estrategia k (Crecimiento Poblacional Lento, Baja Reproduccion e Inversion parental). Estrategia R (especie oportunista) ¿Que estrategia usamos los humanos? A lo largo de la historia hemos tenido momentos de R y K, pero a predominado en mayor medida la K. 
+
+### Reflexion de la clase:
+En la clase de hoy comprendí que no todos los seres vivos siguen el mismo camino para sobrevivir. Mientras algunas especies crecen rápido y se reproducen mucho (estrategia R), otras prefieren avanzar más despacio, cuidando mejor a sus crías y asegurando su estabilidad (estrategia K). Pensando en los humanos, me doy cuenta de que a lo largo de la historia hemos pasado por momentos de ambas estrategias, pero en general predominamos en la K: invertimos tiempo, esfuerzo y recursos en garantizar nuestro bienestar y el de las próximas generaciones. Creo que el verdadero reto está en mantener un equilibrio entre adaptarnos con rapidez, como las especies R, y conservar la planificación y el cuidado que caracterizan a la estrategia K.
+
+En resumen, crecer con inteligencia, pero sin olvidar la capacidad de adaptarnos.
 
 
 ### 17/10/2025 DIA(5)
@@ -13,9 +22,9 @@ Alumno: Gilberto Gil Gandia. :)
 Comenzamos la clase de hoy con la pregunta ¿Vivimos solos?. Las relaciones entre especies, ninguna vive aislada, todas interactuan con alguna otra. Relaciones intraespecificas e interespecificas (mutualismo, parasitismo....)
 La denominacion de origen de la trufa negra en Sarrion. ¿Que hacemos nosotros: cooperamos o competimos?.
 
-La clase de hoy nos hizo pensar en cómo, al igual que en la naturaleza, ningún ser vivo existe de manera aislada. 
+La clase de hoy nos hizo pensar en como, al igual que en la naturaleza, ningún ser vivo existe de manera aislada. 
 Todas las especies dependen unas de otras, ya sea cooperando o compitiendo. 
-Las relaciones intraespecíficas e interespecíficas muestran que la interacción es esencial para el equilibrio del ecosistema. 
+Las relaciones intraespecificas e interespecíficas muestran que la interacción es esencial para el equilibrio del ecosistema. 
 El ejemplo de la trufa negra en Sarrión refleja cómo la cooperación humana con el entorno y entre personas puede generar desarrollo y sostenibilidad significativo. 
 En mi opinión, vivir no es hacerlo solo, sino aprender a convivir y colaborar para prosperar juntos. 
 
@@ -25,7 +34,7 @@ Concepto de hoy "capacidad de carga de un ecosistema", "importancia ecológica",
 La capacidad de carga es determinada por una serie de factores = disponibilidad de agua, territorio, recursos ,es decir, 
 sobreexplotación de los limites.
 
-###Reflexion de la clase:
+### Reflexion de la clase:
 Hemos comprendido que la capacidad de carga representa el límite natural que un entorno puede soportar sin degradarse, es decir, 
 la cantidad máxima de seres vivos incluidos nosotros, los humanos, que pueden vivir en equilibrio con los recursos disponibles en nuestra placa petri (Tierra).
 
@@ -45,7 +54,8 @@ Empezamos tratanto el tema de si somos animales o no. Nuestra base biologica, "E
 Nos diferenciamos en nuestro lenguaje complejo/tecnologia/cultura transmisible.
 ¿Acabaremos con la vida en nuestro planeta?
 
-Pequeña Reflexion: Aunque a menudo pensamos que estamos separados de la naturaleza, en realidad somos animales con la misma base biológica que el resto de los seres vivos. Lo que nos distingue lenguaje, tecnología y cultura,esto nos da un gran poder para transformar el planeta, pero también una gran responsabilidad.
+### Pequeña Reflexion: 
+Aunque a menudo pensamos que estamos separados de la naturaleza, en realidad somos animales con la misma base biológica que el resto de los seres vivos. Lo que nos distingue lenguaje, tecnología y cultura,esto nos da un gran poder para transformar el planeta, pero también una gran responsabilidad.
 La pregunta sobre si acabaremos con la vida en la Tierra nos recuerda que nuestro futuro depende de usar ese poder con equilibrio y sostenibilidad.
 
 
