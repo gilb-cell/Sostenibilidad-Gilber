@@ -7,6 +7,11 @@ Alumno: Gilberto Gil Gandia. :)
 
 ## OCTUBRE
 
+
+### 31/10/2025 DIA(7)
+
+Comenzamos tratando el tema de si la Tierra es un sistema finito. La tierra dispone de una cantidad limitada de materiales, energia y espacio. Ciclo cerrado de la biosfera, todos los residuos se convierten en recursos. En todo este proceso nos comemos a nuestros antepasados. La sostenibilidad exige cerrar los ciclos para que haya un equilibrio en el ecosistema. Cómo podemos mantener el equilibrio?. 
+
 ### 24/10/2025 DIA(6)
 
 Comenzamos la clase tratando las estrategias de crecimiento de la R y la K: Somos todos lo seres vivos iguales? No, en el planeta hay mucha diversidad. Estrategia k (Crecimiento Poblacional Lento, Baja Reproduccion e Inversion parental). Estrategia R (especie oportunista) ¿Que estrategia usamos los humanos? A lo largo de la historia hemos tenido momentos de R y K, pero a predominado en mayor medida la K. 
