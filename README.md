@@ -8,6 +8,11 @@ Alumno: Gilberto Gil Gandia. :)
 ## OCTUBRE
 
 
+### 07/11/2025 DIA(8)
+
+Hoy al llegar a clase y esperar por unos 15 min, nos informan que el profesor no asistirá a la clase, por tanto, la clase de hoy no será muy interesante. Fin
+
+
 ### 31/10/2025 DIA(7)
 
 Comenzamos tratando el tema de si la Tierra es un sistema finito. La tierra dispone de una cantidad limitada de materiales, energia y espacio. Ciclo cerrado de la biosfera, todos los residuos se convierten en recursos. En todo este proceso nos comemos a nuestros antepasados. La sostenibilidad exige cerrar los ciclos para que haya un equilibrio en el ecosistema. Cómo podemos mantener el equilibrio?. 
