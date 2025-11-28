@@ -10,6 +10,23 @@ Alumno: Gilberto Gil Gandia. :)
 
 ## OCTUBRE
 
+### 28/11/2025 DIA(11)
+
+#### Resumen de clase:
+El tema que vamos a ir tratando en la clase de hoy es la Economia Lineal vs Ecnomia Circular. Tratamos el ejemplo del proceso de desguazado de un coche y sobre el valor economico que tiene este subproducto. El modelo actual estaria mas enfocado a la economia lineal, no seria lineal al 100% pero si en gran parte. Esta economia lineal a l larga tendra una serie de consecuencias. Por otro lado en la circular tenemos principios como Ecodiseño, Prioridad(Reutilizar y Reparar) e Integracion. Y finalmente el caliz sagrado, seria la Economia Verde.
+
+Pregunta: ¿Y a mi que me cuentas? ¿Enfoque colectivo o individual?
+
+#### Conlusion/Reflexión
+La economía lineal nos ha llevado durante años por un camino sencillo: usar y tirar. Funciona rápido, pero también desperdicia materiales valiosos, como ocurre cuando un coche llega al desguace y gran parte de su potencial se pierde. La economía circular, en cambio, nos invita a mirar esos restos con otros ojos: reutilizar, reparar, rediseñar y dar una segunda vida a lo que aún tiene valor. Es un enfoque más consciente, que nos acerca a la idea de una economía verde, donde producir no implique dañar, sino convivir mejor con nuestro entorno.
+
+Y la gran pregunta es: ¿estamos dispuestos a cambiar nuestros hábitos, o solo nos gusta la idea de hacerlo?
+
+
+### 21/11/2025 DIA(10)
+
+Hoy no pudimos hablar nada en la clase de Sostenibilidad, el profesor no pudo venir a la clase.
+
 ### 14/11/2025 DIA(9)
 
 #### Resumen de clase:
