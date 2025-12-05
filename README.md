@@ -8,7 +8,19 @@ Esto es un repositorio para la asignatura de Sostenibilidad aplicada al sector p
 Alumno: Gilberto Gil Gandia. :)
 
 
-## OCTUBRE
+## DICIEMBRE
+
+### 05/12/2025 DIA(12)
+
+#### Resumen de clase:
+El tema que vamos a tratar hoy es huella ecológica y huella de carbono, ¿Cuánto pesas en el planeta?. Huella ecologica (Demanda VS Oferta/¿Que mide?/Unidad de medida, hag = hectareas globales). Huella de Carbono (Qué mide: Las emisiones de gases de efecto invernadero (como el CO2) generadas por una actividad humana, producto o servicio, representa mas del 60% del impacto total.) Necesitamos 1.7 planetas para seguir manteniendo el ritmo actual de consumo. Tambien hay una sostenibilidad entre hardware y software. El profesor nos ha enseñado una web (footprintcalculator) para calcular nuestra huella de carbono y ecologica, es decir, si todo el mundo viviese exactamente como uno mismo, cuantas tierras harian falta. En mi caso he hecho las preguntas para intentar conseguir un impacto minimo en el planeta: 
+![alt text](Sostenibilidad.png)
+
+#### Conlusion/Reflexión:
+La reflexión sobre la huella de carbono y ecológica es que son herramientas vitales para medir y comprender nuestro impacto ambiental, y su reducción es crucial para un futuro sostenible. La huella de carbono se enfoca en las emisiones de gases de efecto invernadero y su conexión con el cambio climático, mientras que la huella ecológica abarca un impacto más amplio, considerando la cantidad de recursos naturales que consumimos y los residuos que generamos.
+
+
+
 
 ### 28/11/2025 DIA(11)
 
@@ -17,7 +29,7 @@ El tema que vamos a ir tratando en la clase de hoy es la Economia Lineal vs Ecno
 
 Pregunta: ¿Y a mi que me cuentas? ¿Enfoque colectivo o individual?
 
-#### Conlusion/Reflexión
+#### Conlusion/Reflexión:
 La economía lineal nos ha llevado durante años por un camino sencillo: usar y tirar. Funciona rápido, pero también desperdicia materiales valiosos, como ocurre cuando un coche llega al desguace y gran parte de su potencial se pierde. La economía circular, en cambio, nos invita a mirar esos restos con otros ojos: reutilizar, reparar, rediseñar y dar una segunda vida a lo que aún tiene valor. Es un enfoque más consciente, que nos acerca a la idea de una economía verde, donde producir no implique dañar, sino convivir mejor con nuestro entorno.
 
 Y la gran pregunta es: ¿estamos dispuestos a cambiar nuestros hábitos, o solo nos gusta la idea de hacerlo?
