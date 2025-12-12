@@ -10,6 +10,48 @@ Alumno: Gilberto Gil Gandia. :)
 
 ## DICIEMBRE
 
+### 12/12/2025 DIA(13)
+
+#### Resumen de clase:
+El tema a tratar en la clase de hoy es el cambio climatico (El Multiplicador de Amenazas). Es una realidad que todos podemos percibir y ademas de alguna manera nos tiene preocupados. La evidencia es inequívoca, aumento de temperatura, eventos extremos, deshieloy nivel del mar. Porcentaje de gases de efecto invernadero. Cascada de fallos: Agua, Alimentos y Migraciones. Mitigacion (energias renovables, movilidad sostenible, eficiencia energética).
+
+¿Cual es el principal emisor de CO2?
+La quema de combustibles fósiles para la generación de energía (electricidad, calefacción, transporte) y en la industria.
+
+¿Que puedo hacer como programador para mitigar el cambio climatico? 
+Vamos a ponernos en la situacion de que trabajamos para OpenAi y suponemos que consumimos 100 unidades de energia y tenemos que reducirlo a 50 unidades, por tanto haremos una propuesta un tanto radicalpero con un toque ecológico:
+1) Optimización de modelos y pipelines
+
+Distilación y pruning de modelos: Reducir tamaño de modelos sin perder precisión para disminuir uso de GPU.
+Optimización de batch size y pipelines: Ajustar tamaños de lote y flujos de datos para minimizar cálculos redundantes.
+Inferencia eficiente: Cachear resultados frecuentes para reducir recomputaciones.
+Impacto esperado: 20–25 unidades de ahorro.
+
+2) Uso estratégico de la nube y energía renovable
+
+Ejecutar entrenamientos durante horarios con alta disponibilidad de energía renovable.
+Migrar cargas de trabajo a regiones donde la energía sea 100% renovable.
+Priorizar proveedores de nube que reporten eficiencia energética y certificación verde.
+
+Impacto esperado: 15–20 unidades de ahorro.
+
+3) Codificación y compiladores eficientes
+
+Usar librerías optimizadas para GPU/TPU que reduzcan operaciones innecesarias.
+Detectar cuellos de botella en el código que generan cálculos redundantes.
+Automatizar revisión de eficiencia en pipelines de desarrollo.
+
+Impacto esperado: 5–10 unidades de ahorro.
+
+4) Infraestructura y monitoreo
+
+Implementar dashboards de consumo energético por modelo/proyecto para tomar decisiones basadas en datos.
+Automatizar alertas cuando un servicio o modelo supere el consumo previsto.
+Apagar servidores o procesos inactivos de forma automática.
+
+Impacto esperado: 5–10 unidades de ahorro.
+
+
 ### 05/12/2025 DIA(12)
 
 #### Resumen de clase:
