@@ -7,6 +7,34 @@ Esto es un repositorio para la asignatura de Sostenibilidad aplicada al sector p
 
 Alumno: Gilberto Gil Gandia. :)
 
+## ENERO
+
+### 09/01/2026 DIA(14)
+
+#### Resumen de Clase:
+En la clase de hoy vamos a tratar el tema de la contaminación y los residuos. Tratamos el tema de los residuos organicos y como se podrian aprovechar para realizar compost, se podria vender y usar en vez de productos quimicos que se producen con petroleo y elementos mas nocivos que favorecen mas a la contaminacion. Algunos paises africanos , como Ghana, tienen vertederos enormes donde llegan reisudos de todo el mundo, ellos se dieron cuenta que podian extraer elementos de esos residuos y aprovecharlos y sacar provecho de ello, ya que suelen ser zonas de bajos recursos económicos. 
+
+Por otro lado, tratamos los diprumtores hormonales, junto con la bioacumulacion, el ser vivo pequeño es comido por uno mas grande y ese grande por otro mas grande y finalmente nosotros nos comemos al ultimo mas grande, siendo asi nosotros el filtro final. La ropa es otro tema a tratar como residuos, como los vertederos de ropa en Chile o Ghana. Pregunta final ¿Porque cambias de móvil?
+
+
+#### Conlusion:
+
+En la clase de sostenibilidad se abordó el problema de la contaminación y la gestión de residuos, analizando distintos tipos y su impacto ambiental y social.
+
+Por un lado, se trataron los residuos orgánicos y su aprovechamiento mediante la producción de compost. Este proceso permite transformar restos de comida y materia orgánica en un abono natural que puede utilizarse en la agricultura, reduciendo el uso de productos químicos derivados del petróleo, que son más contaminantes y perjudiciales para el medio ambiente.
+
+También se habló de la situación en algunos países africanos, como Ghana, donde existen grandes vertederos que reciben residuos de todo el mundo. Aunque estos lugares reflejan una gran desigualdad y un grave problema ambiental, sus habitantes han encontrado formas de extraer materiales valiosos de los desechos (metales, componentes electrónicos, etc.) para reutilizarlos o venderlos, como medio de subsistencia en zonas con pocos recursos económicos.
+
+Otro tema importante fue el de los disruptores hormonales y la bioacumulación. Se explicó cómo sustancias tóxicas presentes en el medio ambiente pasan de un ser vivo pequeño a otro más grande a través de la cadena alimentaria, acumulándose progresivamente hasta llegar a los seres humanos, que actuamos como el “filtro final”.
+
+Por último, se trató la industria textil y la ropa como residuo, destacando los enormes vertederos de ropa en países como Chile o Ghana, consecuencia del consumo excesivo y la moda rápida, que genera toneladas de residuos difíciles de gestionar.
+
+
+#### Reflexión:
+
+Esta clase pone de manifiesto que el problema de los residuos no es solo ambiental, sino también social y económico. Muchas de las decisiones de consumo que se toman en los países más desarrollados tienen consecuencias directas en otras partes del mundo, donde los residuos terminan acumulándose y afectando a comunidades vulnerables.
+
+Al mismo tiempo, se observa que los residuos también pueden convertirse en una oportunidad, como ocurre con el compost o la reutilización de materiales, siempre que se gestionen de forma responsable y segura. Sin embargo, no debería recaer en los países con menos recursos la carga de gestionar los desechos del resto del mundo.
 
 ## DICIEMBRE
 
@@ -49,7 +77,7 @@ Implementar dashboards de consumo energético por modelo/proyecto para tomar dec
 Automatizar alertas cuando un servicio o modelo supere el consumo previsto.
 Apagar servidores o procesos inactivos de forma automática.
 
-Impacto esperado: 5–10 unidades de ahorro.
+Impacto esperado: 5–10 unidades de ahorro. 
 
 
 ### 05/12/2025 DIA(12)
