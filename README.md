@@ -10,6 +10,7 @@ Alumno: Gilberto Gil Gandia. :)
 ## ENERO
 
 ### 16/01/2026 DIA(15)
+![alt text](ODS.jfif)
 
 #### Resumen de Clase:
 En la clase de hoy vamos a tratar el tema de la agenda 2030 y los objetivos de desarrollo sostenible. Hablamos de los objetivos de la agenda 2030. El rey CarlosIII es el mas rico de Inglaterra. Para instaurar el grado superior de DAM , fue gracias a dinero de Europa despues de la pandemia. Los ODS  se basan en tres circulos, Ambiental, Social y Economica y de Gobernanza. Hemos dividido la clase en doa, para realizar una busqueda de argumentos ODS a favor y otros en contra. ¿Crees que se vana conseguir los ODS?
@@ -36,6 +37,8 @@ En mi opinión, es poco probable que los ODS se cumplan al 100 % en 2030, al men
 ## ENERO
 
 ### 09/01/2026 DIA(14)
+
+![alt text](Contaminacion.jfif)
 
 #### Resumen de Clase:
 En la clase de hoy vamos a tratar el tema de la contaminación y los residuos. Tratamos el tema de los residuos organicos y como se podrian aprovechar para realizar compost, se podria vender y usar en vez de productos quimicos que se producen con petroleo y elementos mas nocivos que favorecen mas a la contaminacion. Algunos paises africanos , como Ghana, tienen vertederos enormes donde llegan reisudos de todo el mundo, ellos se dieron cuenta que podian extraer elementos de esos residuos y aprovecharlos y sacar provecho de ello, ya que suelen ser zonas de bajos recursos económicos. 
@@ -65,6 +68,8 @@ Al mismo tiempo, se observa que los residuos también pueden convertirse en una 
 ## DICIEMBRE
 
 ### 12/12/2025 DIA(13)
+
+![alt text](cambio_climatico.jfif)
 
 #### Resumen de clase:
 El tema a tratar en la clase de hoy es el cambio climatico (El Multiplicador de Amenazas). Es una realidad que todos podemos percibir y ademas de alguna manera nos tiene preocupados. La evidencia es inequívoca, aumento de temperatura, eventos extremos, deshieloy nivel del mar. Porcentaje de gases de efecto invernadero. Cascada de fallos: Agua, Alimentos y Migraciones. Mitigacion (energias renovables, movilidad sostenible, eficiencia energética).
