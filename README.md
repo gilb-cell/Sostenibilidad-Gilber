@@ -9,6 +9,32 @@ Alumno: Gilberto Gil Gandia. :)
 
 ## ENERO
 
+### 16/01/2026 DIA(15)
+
+#### Resumen de Clase:
+En la clase de hoy vamos a tratar el tema de la agenda 2030 y los objetivos de desarrollo sostenible. Hablamos de los objetivos de la agenda 2030. El rey CarlosIII es el mas rico de Inglaterra. Para instaurar el grado superior de DAM , fue gracias a dinero de Europa despues de la pandemia. Los ODS  se basan en tres circulos, Ambiental, Social y Economica y de Gobernanza. Hemos dividido la clase en doa, para realizar una busqueda de argumentos ODS a favor y otros en contra. ¿Crees que se vana conseguir los ODS?
+
+
+#### Conlusion:
+
+En la clase se trató el tema de la Agenda 2030 y los Objetivos de Desarrollo Sostenible (ODS), explicando su finalidad y estructura. Se comentó que los ODS se apoyan en varios pilares fundamentales: el ambiental, el social, el económico y el de gobernanza, que buscan un desarrollo equilibrado y sostenible a nivel global.
+También se mencionaron ejemplos que reflejan las desigualdades económicas, como el hecho de que el rey Carlos III sea una de las personas más ricas de Inglaterra, y se habló del papel de Europa en la financiación de proyectos educativos, como la implantación del grado superior de DAM tras la pandemia.
+Finalmente, la clase se dividió en dos grupos para investigar y debatir argumentos a favor y en contra de los ODS, fomentando el pensamiento crítico y el análisis de este modelo de desarrollo.
+
+
+#### Reflexión:
+
+La Agenda 2030 plantea un marco ambicioso para mejorar el mundo, pero también genera debate sobre su aplicación real y su impacto. Mientras que los ODS buscan reducir desigualdades y proteger el planeta, la existencia de grandes diferencias económicas y la dependencia de ayudas externas ponen en duda si todos los países parten de las mismas condiciones para cumplirlos.
+El debate en clase demuestra que no basta con aceptar los ODS como una solución perfecta, sino que es necesario analizarlos críticamente, entender quién los financia, quién se beneficia de ellos y cómo se llevan a la práctica. Solo desde una visión crítica y participativa se puede avanzar hacia un desarrollo verdaderamente sostenible.
+
+En cuanto a la pregunta de clase, ¿Crees que se vana conseguir los ODS?: 
+
+En mi opinión, es poco probable que los ODS se cumplan al 100 % en 2030, al menos de forma global. Son objetivos muy ambiciosos y el mundo avanza a ritmos muy distintos según el país. Las desigualdades económicas, los conflictos, las crisis sanitarias, el cambio climático y los intereses políticos y económicos hacen que muchos de estos objetivos avancen más despacio de lo previsto.
+
+
+
+## ENERO
+
 ### 09/01/2026 DIA(14)
 
 #### Resumen de Clase:
