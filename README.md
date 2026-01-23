@@ -9,6 +9,23 @@ Alumno: Gilberto Gil Gandia. :)
 
 ## ENERO
 
+### 23/01/2026 DIA(16)
+![alt text](plan-gestion-sostenible.jpg)
+
+#### Resumen de Clase:
+En la clase de hoy vamos a tratar el ultimo tema del curso, el pan de sotenibilidad empresarial. Comenzamos hablando de las isos de las empresas para seguir hablando de las isos del medio ambiente (cumplir objetivos medio ambientales). La sostenibilidad es una condicion de supervivencia (Ecodependencia, Translimitacion, Cambio de paradigma). Procesos o partes de un plan sostenible, (diagnostico incial, grupos de interes, materialidad, accion y metricas). Hablamos de los KPIS y su posterior informe. ¿Es real GreenWashing?: En mi opinion es una estrategia de marqueting, donde una empresa se hacer ver mas sostenible o verde de lo que realmente es, considero que este tipo de acciones retrasan el camino real hacia la sostenibilidad.
+
+
+#### Conlusion:
+
+La sostenibilidad empresarial se presenta como una condición de supervivencia y no solo como una opción voluntaria. A través de normas ISO, especialmente las medioambientales, y de un plan estructurado que incluya diagnóstico inicial, grupos de interés, materialidad, acciones, métricas y KPIs, las empresas pueden medir y mejorar su impacto real. Todo este proceso permite pasar de la intención a la acción mediante datos objetivos y verificables. 
+
+
+#### Reflexión:
+
+Aunque existen herramientas claras para avanzar hacia la sostenibilidad, prácticas como el greenwashing demuestran que algunas empresas priorizan la imagen sobre el compromiso real con el medio ambiente. Este tipo de estrategias no solo engañan al consumidor, sino que frenan el avance hacia un modelo verdaderamente sostenible. Para que la sostenibilidad sea efectiva, debe basarse en transparencia, medición real y cambios estructurales, no en simples campañas de marketing o un simple sello.
+
+
 ### 16/01/2026 DIA(15)
 ![alt text](ODS.jfif)
 
